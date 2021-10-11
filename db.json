@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "price": 123.45,
+      "description": "Description 1",
+      "category": "Category 1",
+      "image": "https://picsum.photos/id/0/640/480"
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": 234.56,
+      "description": "Description 2",
+      "category": "Category 2",
+      "image": "https://picsum.photos/id/30/640/480"
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": 345.67,
+      "description": "Description 3",
+      "category": "Category 3",
+      "image": "https://picsum.photos/id/36/640/480"
+    }
+  ]
+}
